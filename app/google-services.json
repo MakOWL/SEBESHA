@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "304432852665",
+    "firebase_url": "https://demoesp-964d2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "demoesp-964d2",
+    "storage_bucket": "demoesp-964d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304432852665:android:08a5a9be1c8c336f207568",
+        "android_client_info": {
+          "package_name": "com.example.sebesha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPBfP8kuhCfuFiFNapZ_KQFBgGHJ51LWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
